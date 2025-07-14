@@ -49,16 +49,16 @@ Run the JUnit test file to verify functionality.
 ✅ From the command line:
 Compile the source file:
 
-bash
-Copiar
-Editar
-javac LibraryManager.java
+in bash:
+
+-javac LibraryManager.java
+
 Run the program (if a main method is available):
 
-bash
-Copiar
-Editar
-java LibraryManager
+in bash: 
+
+- java LibraryManager
+- 
 Run tests (from IDE or via a test runner):
 JUnit is typically executed within an IDE or through a build tool like Maven or Gradle.
 
